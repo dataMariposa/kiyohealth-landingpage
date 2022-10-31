@@ -1,14 +1,17 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Kiyo Health will change the world
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Smashing the menopause loneliness by empowering women with smart, simple, and human solutions
   action: # action button is optional
-    label: Find Out More
-    url: '#about'
-
+    label: Lets get in touch!
+    url: '#contacts'
+description: Smashing the menopause loneliness by empowering women with smart, simple, and human solutions
+intro_image: "images/illustrations/pointing.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+show_call_box: true
 
 sections:
   - type: call-to-action.html
@@ -142,21 +145,21 @@ sections:
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Ready to start your journey with Kiyo Health? Join us on your favorite social media channel or simply shoot us a mail. We are looking forward to 
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-instagram #fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
+      url: mailto:hello@kiyohealth.com
+    - title: LinkedIn
       icon: fa-linkedin
       icon_type: fab
-      url: '#'
+      url: 'https://www.linkedin.com/in/kiyo.health/'
+    - title: Instagram
+      icon: fa-instagram
+      url: 'https://www.instagram.com/kiyohealth'
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
-      url: '#'
+      url: 'https://www.facebook.com/kiyohealth'
 
 ---
