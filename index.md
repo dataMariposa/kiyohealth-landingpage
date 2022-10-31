@@ -66,18 +66,18 @@ sections:
         text: This is a very short project description.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+      # - title: Project 4
+      #   text: This is a very short project description.
+      #   icon: 4.jpg
+      #   url: '#'
+      # - title: Project 5
+      #   text: This is a very short project description.
+      #   icon: 5.jpg
+      #   url: '#'
+      # - title: Project 6
+      #   text: This is a very short project description.
+      #   icon: 6.jpg
+      #   url: '#'
 
   - type: aside.html
     section_id: aside
@@ -89,33 +89,33 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Your Co-Founders Team
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: Beatrice Aretz
+        text: CTO
+        image: assets/img/team/bea.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: Katharina Kreitner
+        text: Chief Operations Officer
+        image: assets/img/team/kate.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Battuja Dugershaw-Kurzer
+        text: Chief Information Officer (CIO)
+        image: assets/img/team/tuya.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      # - title: Todd E. Anderson
+      #   text: Drums, percussion.
+      #   image: assets/img/members/person5.jpg
+      #   url: '#'
+      # - title: Daniel T. Riley
+      #   text: Musician, songwriter, producer.
+      #   image: assets/img/members/person6.jpg
+      #   url: '#'
+      # - title: Ella P. Walter
+      #   text: PR.
+      #   image: assets/img/members/person7.jpg
+      #   url: '#'
 
   - type: timeline.html
     section_id: timeline
@@ -146,12 +146,12 @@ sections:
       and we will get back to you as soon as possible!
     actions:
     - title: +1 (202) 555-014
-      icon: fa-phone
+      icon: fa-instagram #fa-phone
     - title: E-Mail
       icon: fa-envelope
       url: mailto:contact@yourwebsite.com
     - title: Twitter
-      icon: fa-twitter
+      icon: fa-linkedin
       icon_type: fab
       url: '#'
     - title: Facebook
