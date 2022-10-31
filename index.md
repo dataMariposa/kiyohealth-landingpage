@@ -91,7 +91,7 @@ sections:
         class: btn-light
 
   - type: members.html
-    section_id: members
+    section_id: team
     title: Your Co-Founders Team
     background_style: bg-info text-white
     members:
@@ -156,6 +156,9 @@ sections:
       url: 'https://www.linkedin.com/in/kiyo.health/'
     - title: Instagram
       icon: fa-instagram
+      url: 'https://www.instagram.com/kiyohealth'
+    - title: Instagram
+      icon: instagram
       url: 'https://www.instagram.com/kiyohealth'
     - title: Facebook
       icon: fa-facebook
