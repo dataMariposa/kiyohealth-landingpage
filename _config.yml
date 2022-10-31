@@ -6,6 +6,14 @@ url: "" # the base hostname & protocol for your site
 author: Copyright &copy; 2019 - Start Bootstrap
 lang: en_US
 
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "32px"
+  desktop_width: "120px"
+
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/
 markdown: kramdown
